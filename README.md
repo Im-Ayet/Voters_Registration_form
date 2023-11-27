@@ -1,2 +1,6 @@
 # Voters_Registration_form
  This code is showcasing, on how you can create you voters account using an online form.  The main components of this code are basically alligned with CRUDE, which is Create Read Update Delete and Exit
+
+In the menu You will only see five options which is the Create Reade Update Delete and Exit this are the main function of this code, making it a simple user interactive interface.
+
+If the user click the create button it will redirect you to a form, where you will be ask to put yoour information since its a registration form, the form consist of 7 components asking for personal information, after filling up the form the system will redirect you automatically back to menu, once you go back to menu you can check if your registration is recorded this is where read button lies in if the user cllick the read button you can see the recorded information that you input in the create file, next is we have the Update button this update function will give the user the right to change their information, and to update it to it's prefferd info, Lastly we have the delete button there the user will have the choice to delete their data if necessary the system will ask the user for the reason before deleting the data.
